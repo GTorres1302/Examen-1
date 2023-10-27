@@ -1,0 +1,7 @@
+C:\Users\50689\Documents\III Q\Progra 2\Examen_UH\Examen_UH\bin\Debug\Examen_UH.exe.config
+C:\Users\50689\Documents\III Q\Progra 2\Examen_UH\Examen_UH\bin\Debug\Examen_UH.exe
+C:\Users\50689\Documents\III Q\Progra 2\Examen_UH\Examen_UH\bin\Debug\Examen_UH.pdb
+C:\Users\50689\Documents\III Q\Progra 2\Examen_UH\Examen_UH\obj\Debug\Examen_UH.csproj.AssemblyReference.cache
+C:\Users\50689\Documents\III Q\Progra 2\Examen_UH\Examen_UH\obj\Debug\Examen_UH.csproj.CoreCompileInputs.cache
+C:\Users\50689\Documents\III Q\Progra 2\Examen_UH\Examen_UH\obj\Debug\Examen_UH.exe
+C:\Users\50689\Documents\III Q\Progra 2\Examen_UH\Examen_UH\obj\Debug\Examen_UH.pdb
